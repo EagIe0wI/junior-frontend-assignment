@@ -1,0 +1,19 @@
+{
+  "name": "junior-frontend-assignment",
+  "version": "1.0.0",
+  "description": "Нужно сверстать форму.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EagIe0wI/junior-frontend-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EagIe0wI/junior-frontend-assignment/issues"
+  },
+  "homepage": "https://github.com/EagIe0wI/junior-frontend-assignment#readme"
+}
